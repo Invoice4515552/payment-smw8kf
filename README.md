@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 · d97qv44A -->
-## Notification 1/2
-Round: Round 1
-To: angelkerriehoney@yahoo.com, angelkiss0018@yahoo.com
-At: 2026-09-16 15:25:47
-Id: d97qv44A
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: angelkiss2004@yahoo.com, angelkiss292001@yahoo.com
+At: 2026-09-16 15:25:55
+Id: mopMMp3M
